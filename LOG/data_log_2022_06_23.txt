@@ -1,0 +1,50 @@
+2022-06-23 08:56:39 --> Socket:missed:
+2022-06-23 09:00:02 --> Socket:missed:
+2022-06-23 09:05:16 --> Begin_Program
+2022-06-23 09:05:16 --> Read file config main : {'username_skype': 'tuhieunonglam@gmail.com', 'password_skype': 'ATBhieu123456', 'socket_ip': '127.0.0.1', 'socket_port': '1992'}
+2022-06-23 09:05:16 --> Read file config socket_send : {'type_started': '1', 'type_ended': '2', 'type_missed': '3'}
+2022-06-23 09:05:50 --> Begin_Program
+2022-06-23 09:05:50 --> Read file config main : {'username_skype': 'tuhieunonglam@gmail.com', 'password_skype': 'ATBhieu123456', 'socket_ip': '172.30.30.50', 'socket_port': '1992'}
+2022-06-23 09:05:50 --> Read file config socket_send : {'type_started': '1', 'type_ended': '2', 'type_missed': '3'}
+2022-06-23 09:06:00 --> Socket:missed:
+2022-06-23 09:06:05 --> Socket:missed:
+2022-06-23 09:07:25 --> Begin_Program
+2022-06-23 09:07:25 --> Read file config main : {'username_skype': 'tuhieunonglam@gmail.com', 'password_skype': 'ATBhieu123456', 'socket_ip': '172.30.30.50', 'socket_port': '1992'}
+2022-06-23 09:07:25 --> Read file config socket_send : {'type_started': '1', 'type_ended': '2', 'type_missed': '3'}
+2022-06-23 09:07:32 --> Socket:3:
+2022-06-23 09:07:37 --> Socket:3:
+2022-06-23 09:07:46 --> Socket:3:
+2022-06-23 09:07:52 --> Socket:3:
+2022-06-23 09:08:01 --> Socket:3:
+2022-06-23 09:08:11 --> Socket:3:
+2022-06-23 09:08:18 --> Socket:3:
+2022-06-23 09:09:10 --> Begin_Program
+2022-06-23 09:09:10 --> Read file config main : {'username_skype': 'tuhieunonglam@gmail.com', 'password_skype': 'ATBhieu123456', 'socket_ip': '172.30.30.50', 'socket_port': '1992'}
+2022-06-23 09:09:10 --> Read file config socket_send : {'type_started': '1', 'type_ended': '2', 'type_missed': '3'}
+2022-06-23 09:11:16 --> Begin_Program
+2022-06-23 09:11:16 --> Read file config main : {'username_skype': 'tuhieunonglam@gmail.com', 'password_skype': 'ATBhieu123456', 'socket_ip': '172.30.30.50', 'socket_port': '1992'}
+2022-06-23 09:11:16 --> Read file config socket_send : {'type_started': '1', 'type_ended': '2', 'type_missed': '3'}
+2022-06-23 09:11:50 --> Begin_Program
+2022-06-23 09:11:50 --> Read file config main : {'username_skype': 'tuhieunonglam@gmail.com', 'password_skype': 'ATBhieu123456', 'socket_ip': '172.30.30.50', 'socket_port': '1992'}
+2022-06-23 09:11:50 --> Read file config socket_send : {'type_started': '1', 'type_ended': '2', 'type_missed': '3'}
+2022-06-23 09:12:53 --> Begin_Program
+2022-06-23 09:12:53 --> Read file config main : {'username_skype': 'tuhieunonglam@gmail.com', 'password_skype': 'ATBhieu123456', 'socket_ip': '172.30.30.50', 'socket_port': '1992'}
+2022-06-23 09:12:53 --> Read file config socket_send : {'type_started': '1', 'type_ended': '2', 'type_missed': '3'}
+2022-06-23 09:13:04 --> Socket:3:
+2022-06-23 09:13:12 --> Socket:3:
+2022-06-23 09:13:20 --> Socket:3:
+2022-06-23 09:13:33 --> Begin_Program
+2022-06-23 09:13:33 --> Read file config main : {'username_skype': 'tuhieunonglam@gmail.com', 'password_skype': 'ATBhieu123456', 'socket_ip': '172.30.30.50', 'socket_port': '1992'}
+2022-06-23 09:13:33 --> Read file config socket_send : {'type_started': 'type_started', 'type_ended': 'type_ended', 'type_missed': 'type_missed'}
+2022-06-23 09:13:41 --> Socket:type_missed:
+2022-06-23 09:13:49 --> Socket:type_missed:
+2022-06-23 09:13:55 --> Socket:type_missed:
+2022-06-23 09:14:00 --> Socket:type_missed:
+2022-06-23 09:14:08 --> Socket:type_missed:
+2022-06-23 09:17:43 --> Begin_Program
+2022-06-23 09:17:43 --> Read file config main : {'username_skype': 'tuhieunonglam@gmail.com', 'password_skype': 'ATBhieu123456', 'socket_ip': '172.30.30.50', 'socket_port': '1992'}
+2022-06-23 09:17:43 --> Read file config socket_send : {'type_started': '1', 'type_ended': '2', 'type_missed': '3'}
+2022-06-23 09:17:53 --> Socket:3:
+2022-06-23 09:17:57 --> Socket:3:
+2022-06-23 09:18:02 --> Socket:3:
+2022-06-23 09:18:09 --> Socket:3:

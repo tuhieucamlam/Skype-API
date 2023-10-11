@@ -1,0 +1,20 @@
+2023-10-11 19:06:22 --> Begin_Program
+2023-10-11 19:06:22 --> Read file config main : {'username_skype': 'tuhieunonglam@gmail.com', 'password_skype': 'ATBhieu123456', 'socket_ip': '172.30.30.50', 'socket_port': '1995'}
+2023-10-11 19:06:22 --> Read file config socket_send : {'type_started': '1', 'type_ended': '2', 'type_missed': '3'}
+2023-10-11 19:06:50 --> Begin_Program
+2023-10-11 19:06:50 --> Read file config main : {'username_skype': 'tuhieunonglam@gmail.com', 'password_skype': 'ATBhieu1234567', 'socket_ip': '127.0.0.1', 'socket_port': '1995'}
+2023-10-11 19:06:50 --> Read file config socket_send : {'type_started': '1', 'type_ended': '2', 'type_missed': '3'}
+2023-10-11 19:07:41 --> Socket:3:
+2023-10-11 19:08:55 --> Socket:3:
+2023-10-11 19:09:11 --> Socket:1:
+2023-10-11 19:09:18 --> Socket:2:
+2023-10-11 19:10:10 --> Begin_Program
+2023-10-11 19:10:10 --> Read file config main : {'username_skype': 'tuhieunonglam@gmail.com', 'password_skype': 'ATBhieu1234567', 'socket_ip': '127.0.0.1', 'socket_port': '1995'}
+2023-10-11 19:10:10 --> Read file config socket_send : {'type_started': 'Call', 'type_ended': 'Started', 'type_missed': 'Missed'}
+2023-10-11 19:10:54 --> Socket:Missed:
+2023-10-11 19:11:36 --> Socket:Missed:
+2023-10-11 19:12:03 --> Socket:Call:
+2023-10-11 19:12:24 --> Socket:Started:
+2023-10-11 19:12:52 --> Begin_Program
+2023-10-11 19:12:52 --> Read file config main : {'username_skype': 'tuhieunonglam@gmail.com', 'password_skype': 'ATBhieu1234567', 'socket_ip': '127.0.0.1', 'socket_port': '1995'}
+2023-10-11 19:12:52 --> Read file config socket_send : {'type_started': 'Call', 'type_ended': 'End', 'type_missed': 'Missed'}
